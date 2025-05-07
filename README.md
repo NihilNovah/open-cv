@@ -1,4 +1,5 @@
-Virtual Try On of Dresses
+Virtual Try On of Dresses:
+
 As a part of Naan Mudhalvan program, We have created a project which will try dresses on humans using OpenCV. It detects the person and overlays a stored dress, it can be introduced in ecommerce and online shopping.
 
 Team Members
